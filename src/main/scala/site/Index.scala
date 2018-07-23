@@ -31,7 +31,7 @@ object Index extends MyBlogPage {
       row(
         third1("Need help from a real programming language?"),
         third2(
-          "Have it check you can properly nest these rows, columns etc?"
+          "Hello Edi (Benis)!?"
         ),
         third3(
           ul(
